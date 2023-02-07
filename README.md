@@ -1,2 +1,2 @@
-# lintekid
+# dikte
 others
